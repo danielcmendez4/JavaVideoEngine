@@ -1,0 +1,16 @@
+# World File for a tile game
+# (# means comments) 
+# The block tiles are: 
+#   (Space) Empty block tiles 
+#   A..Z    Block Tiles A through Z 
+#   a..z    power ups 
+#   0..9    characters
+#   Enemies of symbols
+
+
+
+
+
+
+0 D  D
+BDDDDDDDDD
